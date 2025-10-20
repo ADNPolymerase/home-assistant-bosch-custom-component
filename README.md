@@ -1,37 +1,15 @@
 # home-assistant-bosch-custom-component
 
-HA custom component for Bosch thermostats.
-If you like this component consider sponsoring my work: [:heart: Sponsor](https://github.com/sponsors/pszafer)
-
-**Second maintainer needed!**
-
-**Hi, I'm looking for help to make this component better**
-https://github.com/bosch-thermostat/home-assistant-bosch-custom-component/issues/414
-
-**Latest version will only work with Home Assistant 2024.7 and Python >=3.12.**
-For older HA look into release notes.
-
-If possible and if it's ok with you please enable Home Assistant Analytics so I can see how many people uses this integration.
-
+HA custom component for Bosch thermostats. Updated from pszafer.
 Supported protocols:
 
 - XMPP -> connect to bosch cloud!
-- HTTP -> connect locally - available only for IVT devices.
 
 Supported types of devices:
 
-- IVT (HTTP/XMPP):
-  - RC300
-  - RC200
-  - RC35
-  - RC30
-  - RC20
 - NEFIT(XMPP only):
   - Junkers CT100
   - Bosch Remote room controller CT100
-- EASYCONTROL(XMPP only):
-  - Bosch CT200
-  - Buderus Logamatic TC100.2
 
 ## Installation
 
