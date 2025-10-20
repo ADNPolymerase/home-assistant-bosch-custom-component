@@ -1,6 +1,7 @@
 # home-assistant-bosch-custom-component
 
 HA custom component for Bosch thermostats. Updated from pszafer.
+
 Supported protocols:
 
 - XMPP -> connect to bosch cloud!
